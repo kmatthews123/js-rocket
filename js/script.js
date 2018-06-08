@@ -1,3 +1,4 @@
+	//hey this is invisible and the below thing turns the color of hello im cool to red from green
 	var doCoolStuff = function () {
 		document.getElementById('cool').className = 'cool red';
 	}
