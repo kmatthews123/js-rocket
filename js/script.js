@@ -8,7 +8,6 @@
 			document.getElementById('cool').className = 'cool ';
 
 		}
-			document.getElementById('cool').className = 'cool red';
 	}
 	var car = {
 		make: 'VW',
