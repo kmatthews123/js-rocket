@@ -1,10 +1,9 @@
 	//hey this is invisible and the below thing turns the color of hello im cool to red from green
 	var doCoolStuff = function () {
-		var currnetClassName = document.getElementById('cool').className;
+		var currentClassName = document.getElementById('cool').className;
 
-		if (currnetClassName == 'cool') 
+		if (currentClassName == 'cool') {
 			document.getElementById('cool').className = 'cool red';
-
 		} else {
 			document.getElementById('cool').className = 'cool ';
 
